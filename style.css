@@ -5,6 +5,7 @@ html{
 
 body {
     font-family: 'Courier New', sans-serif;
+    font-size: 20px;
 }
 
 h1 {
@@ -30,4 +31,9 @@ a{
     display: flex;
     flex-direction: column;
     align-items: center;
+    gap: 30px;
+}
+
+.recipe-links li{
+    list-style: none;;
 }

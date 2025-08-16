@@ -1,0 +1,14 @@
+html{
+    background-color: chartreuse;
+    color: #333;
+}
+
+body {
+    font-family: 'Courier New', sans-serif;
+}
+
+h1 {
+    font-family: 'Fascinate Inline', sans-serif;
+    text-align: center;
+    color: #333;
+}
